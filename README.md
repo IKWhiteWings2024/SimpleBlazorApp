@@ -1,0 +1,2 @@
+# SimpleBlazorApp
+Blazor App
